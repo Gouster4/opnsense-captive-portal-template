@@ -19,7 +19,7 @@
 	"rules_anon": "terms",
 	"signin": "Log in",
 	"signin_anon": "Sign in",
-	"anon_title": "Sign in",<br>
+	"anon_title": "Sign in",
 	"anon_pretext1": "To log in your device to access the Internet, click Log In. The connection will be maintained for 12 hours of inactivity of your device.",
 	"logoff": "Log out",
 	"status": "Device connected",
