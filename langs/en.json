@@ -2,7 +2,7 @@
 	"isp_info": {
 		"isp_name": "TECHAX",
 		"isp_address": "Gondovo 232<br>93525 Nov\u00e1 Dedina",
-		"isp_id": "<a href=mailto:admin@techax.sk>admin@techax.sk</a>"
+		"isp_id": "<a href=mailto:\"admin@techax.sk\">admin@techax.sk</a><br><a href=\"tel:+421910299920\">+421910299920<\/a>"
 	},
 	"footer_isp_info": {},
 	"pagetitle": "TECHAX",
@@ -19,7 +19,7 @@
 	"rules_anon": "terms",
 	"signin": "Log in",
 	"signin_anon": "Sign in",
-	"anon_title": "Sign in",
+	"anon_title": "Sign in",<br>
 	"anon_pretext1": "To log in your device to access the Internet, click Log In. The connection will be maintained for 12 hours of inactivity of your device.",
 	"logoff": "Log out",
 	"status": "Device connected",
