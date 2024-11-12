@@ -39,7 +39,7 @@ $(document).ready(function() {
 				$.createCookie('lang', lang, 31);
 			}
 		} else {
-			lang = 'pl';
+			lang = 'sk';
 			$('html').attr('lang',lang);
 			$.createCookie('lang', lang, 31);
 		}
