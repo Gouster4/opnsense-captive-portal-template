@@ -1,5 +1,5 @@
 <h1>This is private personalized branch.
-Every commit in this brunch does mean just personalization of data,
+Every commit in this branch does mean just personalization of data,
 not improvement in template.
 
 Please look at branch main</h1>
