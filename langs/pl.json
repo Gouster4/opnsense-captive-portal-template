@@ -1,11 +1,11 @@
 {
 	"isp_info": {
-		"isp_name": "< Nazwa ISP > - dostawca us\u0142ug internetowych",
-		"isp_address": "Nazwa ulicy 10, miasto i kod pocztowy itp.",
-		"isp_id": "Pozosta\u0142e informacje."
+		"isp_name": "TECHAX",
+		"isp_address": "Gondovo 232",
+		"isp_id": "93525 Nov\u00e1 Dedina"
 	},
 	"footer_isp_info": {},
-	"pagetitle": "System logowania u\u017cytkownik\u00f3w | < Nazwa ISP >",
+	"pagetitle": "System logowania u\u017cytkownik\u00f3w | TECHAX",
 	"username": "Nazwa u\u017cytkownika (Login)",
 	"inputUsername_placeholder": "-- wpisuj\u0105c Login pami\u0119taj o wielko\u015bci liter --",
 	"userpass": "Has\u0142o",
@@ -29,7 +29,7 @@
 	"noscript": "Ostrze\u017cenie: Aby poprawnie zalogowa\u0107 si\u0119 do systemu, obs\u0142uga JavaScript w przegl\u0105darce musi by\u0107 w\u0142\u0105czona.",
 	"cp_portal_head_title": "System logowania u\u017cytkownikow",
 	"cp_portal_tooltip_title": "Nie posiadasz kodu?",
-	"cp_portal_info": "Dost\u0119p do Internetu w sieci <Nazwa ISP> wymaga podania loginu oraz has\u0142a. Nale\u017cy pami\u0119ta\u0107, \u017ce has\u0142o i login powinny by\u0107 chronione przez u\u017cytkownika przed zagubieniem lub dost\u0119pem os\u00f3b trzecich.",
+	"cp_portal_info": "Dost\u0119p do Internetu w sieci TECHAX wymaga podania loginu oraz has\u0142a. Nale\u017cy pami\u0119ta\u0107, \u017ce has\u0142o i login powinny by\u0107 chronione przez u\u017cytkownika przed zagubieniem lub dost\u0119pem os\u00f3b trzecich.",
 	"cp_portal_cookies_note": "System logowania u\u017cytkownikow wykorzystuje pliki cookies do przechowywania informacji na Twoim komputerze. Pliki cookies stosujemy w celu \u015bwiadczenia us\u0142ug na najwy\u017cszym poziomie, w tym w spos\u00f3b dostosowany do indywidualnych potrzeb u\u017cytkownika. Korzystanie z portalu logowania bez zmiany ustawie\u0144 dotycz\u0105cych cookies oznacza, \u017ce b\u0119d\u0105 one zamieszczane w Twoim urz\u0105dzeniu ko\u0144cowym.",
 	"cp_portal_ifconfig_event_normal": "Konfiguracja interfejsu sieciowego",
 	"cp_portal_ifconfig_event_none": "Konfiguracja interfejsu sieciowego",
