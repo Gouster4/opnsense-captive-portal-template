@@ -4,6 +4,7 @@ html {
 }
 body {
 	min-height:100%;
+    	zoom: 90%;
 }
 section {
 	display: block;
