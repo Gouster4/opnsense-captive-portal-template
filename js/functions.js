@@ -96,9 +96,9 @@ $.loadLangs = function(lang) {
             overlayColor: settings.modal['overlay_color'],
             onClosed: function(){
                 $('#MSG').replaceWith('<div id="MSG"></div>');
-                $.when(setTimeout($.createCookie('lang', 'en', 31),100)).done(function() {
-                    $.setLangLayout(settings.langs, 'en', '#polyglotLanguageSwitcher');
-                    $.loadLangs('en');
+                $.when(setTimeout($.createCookie('lang', 'sk', 31),100)).done(function() {
+                    $.setLangLayout(settings.langs, 'sk', '#polyglotLanguageSwitcher');
+                    $.loadLangs('sk');
                 });
             },
             afterRender: function(){
