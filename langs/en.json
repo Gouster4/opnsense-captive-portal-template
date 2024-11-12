@@ -1,11 +1,11 @@
 {
 	"isp_info": {
 		"isp_name": "TECHAX",
-		"isp_address": "Gondovo 232",
-		"isp_id": "93525 Nov\u00e1 Dedina"
+		"isp_address": "Gondovo 232<br>93525 Nov\u00e1 Dedina",
+		"isp_id": "<a href="mailto:admin@techax.sk">admin@techax.sk</a>"
 	},
 	"footer_isp_info": {},
-	"pagetitle": "User login system | TECHAX",
+	"pagetitle": "TECHAX",
 	"username": "Username (Login)",
 	"inputUsername_placeholder": "-- enter Login, use correct case --",
 	"userpass": "Password",
@@ -27,7 +27,7 @@
 	"status_pretext2": "If you want to end this connection yourself, click LOG OUT.",
 	"back": "Back...",
 	"noscript": "Warning: To properly log into the system, JavaScript must be enabled.",
-	"cp_portal_head_title": "User login system",
+	"cp_portal_head_title": "TECHAX",
 	"cp_portal_tooltip_title": "You do not have the code?",
 	"cp_portal_info": "Internet access in the network TECHAX requires a username and password, or access code. Please note that the login and password should be protected by the user against loss or access by third parties.",
 	"cp_portal_cookies_note": "This site uses cookies to store information on your computer. We use cookies to provide services at the highest level, including in a manner tailored to individual needs. Using the site without changing the setting of cookies is that they will be posted on your device endpoint.",
