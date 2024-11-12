@@ -2,7 +2,7 @@
 Every commit in this branch does mean just personalization of data,
 not improvement in template.
 
-Please look at branch main</h1>
+Please look at master branch</h1>
 
 
 <p>If you like my work and appreciate my commitment, you can buy me a coffee.</p>
