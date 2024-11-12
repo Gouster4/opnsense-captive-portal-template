@@ -1,8 +1,9 @@
 <h1>This is private personalized branch.
 Every commit in this branch does mean just personalization of data,
 not improvement in template.
+Commits in this branch are one giant mess.
 
-Please look at master branch</h1>
+Please look at master branch instead</h1>
 
 
 <p>If you like my work and appreciate my commitment, you can buy me a coffee.</p>
