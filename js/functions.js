@@ -102,7 +102,7 @@ $.loadLangs = function(lang) {
                 });
             },
             afterRender: function(){
-                $('#MSG .cpModal-content').append('<p>Unfortunately, the language file could not be loaded. The login system will automatically switch to English.</p>');
+                $('#MSG .cpModal-content').append('<p>Unfortunately, the language file could not be loaded. The login system will automatically switch to Slovak.</p>');
             }
         });
         $('#MSG').cpModal('open');
